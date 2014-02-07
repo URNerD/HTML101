@@ -24,6 +24,8 @@ This will be a day where you accomplish (or at least attempt) a ton! Take it eas
 
 11.	Go back to the GitHub window in your browser and get a copy of the URL (type Command-C or use the clipboard button).
 12.	Get a clone of your repository (git clone Command-V). Typing Command-V pastes the URL you just copied. When you hit enter magic happens and you get a copy of the files from GitHub.
+13.	If you look back at the output from the git command you should see an line that begins "cloning into <the name of your repository>" – that is the name of the folder that will be created by git as it clones your repository from GitHub.
+14.	Go there (cd whatever-the-name-is).
 
 ### Meet the Unix / Linux / Mac command line
 
