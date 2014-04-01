@@ -1,13 +1,13 @@
-This will be a day where you accomplish (or at least attempt) a ton! Take it easy, be patient with yourself and talk with your partner. It’s ok if you find it challenging – even very challenging. Just help me understand what you need help understanding…
+This will be a day where you accomplish (or at least attempt) a ton! Take it easy, be patient with yourself and talk with your neighbor. It’s ok if you find it challenging – even very challenging. Just help me understand what you need help understanding…
 
 # HTML101 Instructions
 
 ### Set up a GitHub account
 
-1.	Find a programming partner and log on.
+1.	Get logged on.
 2.	Create an account for yourself on GitHub (github.com). GitHub is a “social networking site” for programmers.
 3.	Send me an e-mail (douglas.urner@highlineschools.org) with your username.
-4.	Create a new Repository (aka repo) and give it a name you like – I called mine HTML101.
+4.	Create a new Repository (aka repo) and name it HTML101, then name matters, it is how I will recognize that you are working on this assignment.
 5.	Give it a description of some sort (this will become the README file).
 6.	Then, check the “initialize repository” box, and then click on the green Create Repository button at the bottom.
 7.	If you forget to check the box, you will get to dive deeper into get than you might have wanted, but it will be just fine. Or you can start over.
