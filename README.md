@@ -45,7 +45,13 @@ important.
 
 ## Things To Try
 
-1. Go to the tutorial at: http://htmldog.com/guides/html/beginner and get started.
+1. The HTML Dog [HTML Beginner Tutorial](http://htmldog.com/guides/html/beginner)
+is an excellent introduction to HTML. Working through it will take you two or
+three class periods. Commit your changes to git at the end of each day.
+1. HTML Validators are online tools that check for errors in your coding. The
+code from the HTML Dog tutorial isn't perfect. Do a search on the terms "html
+validator" and try validating your code from the tutorial on several of the top
+ranked validators. Correct all of the errors and warnings and commit them to git.
 
 
 ## How To Show That You've Got It:
@@ -72,7 +78,11 @@ So, do this:
   (http://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Separation: The Web Designer’s Dilemma]
   (http://alistapart.com/article/separationdilemma/)
-* []
-  ()
-* []
-  ()
+* [Do You Know Why Validating Your Code Is Important?]
+  (http://www.vanseodesign.com/web-design/validating-code)
+* [HTML Table Tutorial]
+  (http://www.quackit.com/html/html_table_tutorial.cfm) – Tables used to be used
+  as page layout devices. That is evil, if you see examples or tutorials that
+  recommend it, shake your head wisely and move along. On the other hand there
+  are still lots of valid uses for HTML tables, they are essential for presenting
+  tabular data. Just don't use them for page layout…
