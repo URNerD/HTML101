@@ -1,7 +1,8 @@
 # HTML101
 
 Learn the basics of HTML markup and the big ideas that go into organizing online
-content.
+content. When you are done you should be able to construct a functional, if not
+elegant HTML page.
 
 ### What I want you to come away with is:
 
